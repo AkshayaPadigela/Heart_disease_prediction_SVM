@@ -44,7 +44,7 @@ The notebook performs the following steps:
 
 - Seaborn
 
-- Sklearn
+- Sklearn
 
 
 ## How to Use
