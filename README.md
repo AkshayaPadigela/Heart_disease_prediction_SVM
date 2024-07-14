@@ -1,5 +1,7 @@
 # Heart_disease_prediction_SVM
 
+## Project Overview
+This project aims to analyze heart disease data from multiple sources to gain insights into the prevalence, risk factors, and correlations associated with heart disease. By leveraging data analysis and visualization techniques, the project seeks to uncover patterns and trends that can inform further research and potentially aid in early detection and prevention efforts.
 ## Insights
 
 The analysis provides insights into the distribution of heart disease risk factors, the presence of missing data, potential outliers, and correlations between variables. These insights can be valuable for further research and model development.
